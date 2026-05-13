@@ -7,6 +7,7 @@ The 6 python program included.
 Core_XY_Platform.py and vector_network_analyzer.py are program for communicating between CoreXY platform(Arduino) and the VNA.
 
 Main_Experiment.py: the main program for automatically conducting 2D magnetic field measurement.
+
 When executing the Main_Experiment.py, ensure the Core_XY_Platform.py and vector_network_analyzer.py are in the same folder.
 
 
